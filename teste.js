@@ -5,3 +5,8 @@ function somar(num1, num2){
     var soma = num1 + num2
     return soma
 }
+
+function subtrair(num1, num2){
+    var subtracao = num1 - num2
+    return subtracao
+}
