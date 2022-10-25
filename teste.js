@@ -10,3 +10,8 @@ function subtrair(num1, num2){
     var subtracao = num1 - num2
     return subtracao
 }
+
+function multiplicar(num1, num2){
+    var multiplicacao = num1 * num2
+    return multiplicacao
+}
