@@ -15,3 +15,8 @@ function multiplicar(num1, num2){
     var multiplicacao = num1 * num2
     return multiplicacao
 }
+
+function dividir(num1, num2){
+    var divisao = num1 / num2
+    return divisao
+}
